@@ -9,4 +9,13 @@
     color:red;
 }
 
-/* There is another such as select three different heading as element selector and give style to it
+/* There is another such as select three different heading as element selector and give style to it */
+/*h1, h2, h3{
+    color :gold;
+}*/
+
+
+/*Q3*/
+button{
+    background-color: green;
+}
