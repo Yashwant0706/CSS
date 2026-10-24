@@ -1,6 +1,8 @@
 *{
     padding: 0;
     margin: 0;
+    text-align: center;
+    text
 }
 
 #navbar{
@@ -21,3 +23,4 @@ a{
     text-decoration: none;
     color : white;
 }
+
